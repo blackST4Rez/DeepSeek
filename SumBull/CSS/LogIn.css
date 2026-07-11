@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.login-main{
+    width: 350px;
+    margin: 0 auto;
+}
+
+.login-container{
+    width: 100%;
+    border-radius: 25px;
+    padding: 10px 8px;
+    text-align: center;
+    background-color: var(--thi-col);
+}
+
+.log-txt{
+    text-decoration: none;
+    color: var(--sec-col);
+    font-size: var(--font-s);
+}
+
+.login-container:hover{
+    background-color: var(--hov-col);
+    transition: 0.3s ease-out;
+}
+

@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.forgot-main{
+    margin-bottom: 10px;
+}
+
+.forgot-container{
+    display: flex;
+    width: 350px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.f-txt{
+    text-decoration: none;
+    font-size: var(--font-ss);
+    color: var(--btn-col);
+}
+
+.f-txt:hover{
+    color: var(--hov-col);
+    transition: 0.3s ease-out;
+}

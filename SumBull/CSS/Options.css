@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.options-main{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.option-container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.option-txt{
+    font-size: var(--font-ss);
+    color: var(--fo-col);
+    text-decoration: underline;
+}
+
+.option-txt:hover{
+    color: var(--hov-col);
+    cursor: pointer;
+    transition: 0.2s ease-out;
+}
+
+.h-line{
+    color: var(--bg-2);
+    height: 12px;
+    opacity: 30%;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 4px;
+}

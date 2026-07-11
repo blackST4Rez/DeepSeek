@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Space+Grotesk:wght@300..700&display=swap');
+
+@import url(Image.css);
+@import url(Form.css);
+@import url(SubText.css);
+@import url(Forgot.css);
+@import url(LogIn.css);
+@import url(Options.css);
+@import url(Footer.css);
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+:root{
+    --bg: #151517;
+    --bg-2:rgb(46, 46, 46);
+    --btn-col: #5786ff;
+    --fir-col: grey;
+    --sec-col: white;
+    --thi-col: #5786ff;
+    --fo-col:  rgb(174, 174, 174);
+    --hov-col: #3263e0;
+    --font: 'Poppins', sans-serif;
+    --font-s: 15px;
+    --font-ss: 13px;
+    --font-l: 18px;
+    --bor-col: rgb(94, 94, 94);
+}
+
+body{
+    background-color: #151517;
+    font-family: var(--font);
+}
+
+#container{
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 250px
+}

@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.foot-txt{
+    color: var(--fo-col);
+}
+
+.f-txt{
+    font-size: var(--font-s);
+}
+
+.footer-main{
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.foot-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 19.5%;
+    width: 100%;
+}
