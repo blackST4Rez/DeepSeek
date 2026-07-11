@@ -13,7 +13,7 @@ This project focuses on creating a visually appealing authentication page with a
 
 ## 📸 Preview
 
-![SumBull Preview](./src/assets/your-image.png)
+![SumBull Preview](./SumBull/src/assets/your-image.png)
 
 
 ## 🌟 Features
@@ -67,7 +67,7 @@ SumBull/
 
 ## 👨‍💻 Author
 
-Raka Maharjan
+Raka Maharjan ( blackST4Rez )
 
 ## 📄 License
 
