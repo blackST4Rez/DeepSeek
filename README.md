@@ -13,6 +13,10 @@ This project focuses on creating a visually appealing authentication page with a
 
 ## 📸 Preview
 
+Sign-In Page
+![SumBull Preview](./SumBull/src/assets/SS1.png)
+
+Sign-Up Page
 ![SumBull Preview](./SumBull/src/assets/SS1.png)
 
 ## 🌟 Features

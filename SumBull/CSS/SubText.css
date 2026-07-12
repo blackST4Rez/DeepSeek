@@ -5,14 +5,16 @@
 }
 
 .Terms{
+    width: 380px;
     margin-top: 20px;
-    padding-left: 22px;
+    padding-left: 21px;
     margin-bottom: 20px;
 }
 
 .sub-txt{
     color: var(--fir-col);
     font-size: var( --font-ss);
+    text-align: center;
 }
 
 .terms-deco{
