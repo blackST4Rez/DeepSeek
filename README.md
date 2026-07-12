@@ -17,7 +17,7 @@ Sign-In Page
 ![SumBull Preview](./SumBull/src/assets/SS1.png)
 
 Sign-Up Page
-![SumBull Preview](./SumBull/src/assets/SS1.png)
+![SumBull Preview](./SumBull/src/assets/SS2.png)
 
 ## 🌟 Features
 
