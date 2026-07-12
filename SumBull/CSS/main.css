@@ -17,6 +17,7 @@
 :root{
     --bg: #151517;
     --bg-2:rgb(46, 46, 46);
+    --bg-3: #1b1b1c;
     --btn-col: #5786ff;
     --fir-col: grey;
     --sec-col: white;
@@ -27,7 +28,7 @@
     --font-s: 15px;
     --font-ss: 13px;
     --font-l: 18px;
-    --bor-col: rgb(94, 94, 94);
+    --bor-col: #373738;
 }
 
 body{
