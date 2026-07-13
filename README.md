@@ -72,10 +72,6 @@ SumBull/
 
 Raka Maharjan ( blackST4Rez )
 
-## 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## 🤝 Support
 
 If you like this project, please consider giving it a star ⭐. Your support means a lot and encourages further improvements.
